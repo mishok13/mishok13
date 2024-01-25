@@ -1,4 +1,4 @@
-### Hi there 👋
+Name's Andrii, software engineer by trade, collector of failed CI pipelines by night.
 
 <!--
 **mishok13/mishok13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
